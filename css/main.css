@@ -56,6 +56,10 @@ body {
   text-decoration: none;
 }
 
+.nav a:hover {
+  color: #000;
+}
+
 .banner {
   display: grid;
   grid-template-columns: 1fr;
